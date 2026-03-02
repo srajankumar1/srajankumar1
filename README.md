@@ -57,9 +57,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=srajankumar1&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=srajankumar1&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srajankumar1&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=srajankumar1&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -68,7 +68,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=srajankumar1&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://streak-stats.demolab.com?user=srajankumar1&theme=tokyonight"/>
 </p>
 
 ---
